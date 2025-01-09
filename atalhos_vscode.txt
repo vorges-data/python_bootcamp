@@ -1,0 +1,2 @@
+Ctrl + k + c -> Comenta código
+Ctrl + k + u -> Descomenta
