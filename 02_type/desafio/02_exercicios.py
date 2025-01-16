@@ -166,12 +166,12 @@
 #     print('Digite um valor numérico válido.')
 
 # 25: Conversão de Tipo com Validação
-entrada = input('Digite um número inteiro separado por vírgula: ')
-numeros_str = entrada.split(',')
-numeros_int = []
-try:
-    for numero in numeros_str:
-        numeros_int.append(int(numero.strip()))
-    print(f'Os números inteiros são: {numeros_int}')
-except ValueError:
-    print('Digite um valor numérico válido.')
+# entrada = input('Digite um número inteiro separado por vírgula: ')
+# numeros_str = entrada.split(',')
+# numeros_int = []
+# try:
+#     for numero in numeros_str:
+#         numeros_int.append(int(numero.strip()))
+#     print(f'Os números inteiros são: {numeros_int}')
+# except ValueError:
+#     print('Digite um valor numérico válido.')
